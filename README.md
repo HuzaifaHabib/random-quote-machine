@@ -4,4 +4,4 @@ Check This app Live on [https://huzaifahabib.github.io/random-quote-machine/](ht
 
 It will also ask you for your custom quote if the API call Fails.
 
-###### A Practic project From Free codecamp FED Projects.
+###### A Practice project From Free codecamp FED Projects.
